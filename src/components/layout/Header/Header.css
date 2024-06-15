@@ -1,0 +1,11 @@
+.logo > span {
+  font-family: "Source Serif 4", serif;
+}
+
+.btn_signin {
+  transition: all ease 650ms !important;
+}
+
+.btn_signin:hover {
+  border-radius: 9999px;
+}

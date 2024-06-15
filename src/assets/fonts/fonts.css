@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+4:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+@font-face {
+  font-family: 'euclid';
+  src: url('./euclid_a.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
